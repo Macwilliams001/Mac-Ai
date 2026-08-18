@@ -1,5 +1,5 @@
 / / PASTE YOUR API KEY HERE
-const API_KEY = "PASTE_YOUR_GEMINI_KEY_HERE";
+const API_KEY = "AQ.Ab8RN6ImdipTNufBykv2WxSKl4xqXPY7oSuj1oRLcgsm91I7iw;
 
 const chatBox = document.getElementById("chat-box");
 const userInput = document.getElementById("user-input");
